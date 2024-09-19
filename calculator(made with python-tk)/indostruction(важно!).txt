@@ -1,2 +1,1 @@
- License: C copyright yarakir yaroslav.dvd@outlook.com
- приложение разработано для Linux! на Windows не запустится
+приложение разработано для Linux! на Windows не запустится
